@@ -1,17 +1,36 @@
-# flutter_application_1
+# Intro to Flutter
 
-A new Flutter project.
+![alt text](image.png)
 
-## Getting Started
+## About The Session
 
-This project is a starting point for a Flutter application.
+Welcome to the **Intro to Flutter** session! This workshop was delivered as part of the Ramadan Program at IEEE BUB. It is specifically designed for beginners aiming to understand the fundamentals of cross platform app development using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Topics Covered (Agenda)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+During this session, we covered the following key topics:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **What is Flutter:** An introduction to the framework and its advantages.
+- **Project Structure:** Understanding the directories and files in a standard Flutter project.
+- **Everything is a Widget:** The core philosophy of building UIs in Flutter.
+- **Stateless vs Stateful:** Understanding the difference between widgets that manage state and those that do not.
+- **Main & Layout Widgets:** Exploring the essential building blocks for creating interfaces.
+
+## Core Concepts
+
+Some of the essential takeaways from the slides include:
+
+- **Hot Reload Benefits:** How Hot Reload accelerates the development process by instantly reflecting code changes in the app.
+- **MaterialApp vs Scaffold:** Understanding the root of a Flutter app (`MaterialApp`) versus the fundamental structural layout for a screen (`Scaffold`).
+- **Layouts (Row/Column/Stack):** The primary tools for arranging widgets horizontally, vertically, and overlapping them.
+
+## Resources & Materials
+
+This repository contains all the resources you need from the session:
+
+- The full PowerPoint presentation slides.
+- **Presentation Slides:** [view on Google Slides](https://docs.google.com/presentation/d/1CRsNEk2_WZOlaaoBEY-efiMUNyOEXyRU/edit?usp=sharing&ouid=117746034635602625537&rtpof=true&sd=true)
+
+---
+
+![alt text](image-1.png)
